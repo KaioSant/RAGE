@@ -4,4 +4,4 @@ clear
 
 GREEN="\e[0;92m"
 
-echo {color: green} odiiiiiiiiiiiiiiiiiiiiiiiiiiioooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+echo {GREEN} odiiiiiiiiiiiiiiiiiiiiiiiiiiioooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
